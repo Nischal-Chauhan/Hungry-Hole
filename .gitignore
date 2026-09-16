@@ -1,0 +1,46 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Pp]rofilerCaptures/
+
+# Local backup inside this project
+_RevertedM2_2026-09-10/
+
+# IDE / editor caches
+.vs/
+.vscode/
+.idea/
+.gradle/
+
+# Unity generated solution/project files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Build/package outputs
+*.apk
+*.aab
+*.unitypackage
+
+# OS files
+.DS_Store
+Thumbs.db
